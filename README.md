@@ -1,6 +1,6 @@
 # geethacharani
 ## About Me
-- 2nd Year Undergraduate Student
+- 3rd Year Undergraduate Student
 - Interested in Machine Learning and Optimization
 - Working on ML from scratch implementations
 
