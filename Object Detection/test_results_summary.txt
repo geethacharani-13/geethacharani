@@ -1,0 +1,15 @@
+
+FINAL TEST SET RESULTS
+=======================
+mAP50: 0.2355
+mAP50-95: 0.1881
+
+Per-class mAP50:
+  Cardboard: 0.1920
+  Cigarette: 0.1150
+  Glass: 0.1326
+  Metal: 0.3253
+  Other: 0.0017
+  Paper: 0.1090
+  Plastic: 0.3903
+  Styrofoam: 0.2392

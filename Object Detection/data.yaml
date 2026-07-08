@@ -1,0 +1,6 @@
+train: /kaggle/working/taco_yolo_final/images/train
+val: /kaggle/working/taco_yolo_final/images/val
+test: /kaggle/working/taco_yolo_final/images/test
+
+nc: 8
+names: ['Cardboard', 'Cigarette', 'Glass', 'Metal', 'Other', 'Paper', 'Plastic', 'Styrofoam']
