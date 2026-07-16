@@ -64,7 +64,7 @@ Dijkstra and A* find the identical optimal path — but A* explores **less than 
 
 **Side-by-side Dijkstra vs. A\* comparison** — showing not just the final path but every node each algorithm explored during search. Dijkstra's explored nodes (orange) spread out in a wide radius around the start; A*'s stay tightly funneled toward the destination, exploring less than half as many nodes for the same optimal answer:
 
-![Dijkstra vs A* comparison](images/dijkstra_vs_astar_comparison.png)
+![Dijkstra vs A* comparison](images/dijkstra_vs_astar_comparision.png)
 
 ## Project structure
 
